@@ -1,11 +1,11 @@
 # Site settings
-author: Ben Hazlerig
-title: 
+author: Ben H.
+title: Ben's Web Dev Journal
 header-img: img/home-bg.png
 email: benhazlerig@msn.com
-copyright_name: Ben Hazlerig
+copyright_name: Ben H.
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Flatiron Course
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  BHazlerig
